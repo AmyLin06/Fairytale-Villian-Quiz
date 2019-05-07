@@ -12,7 +12,7 @@ $("button").click(function(){
     }
     else if (answer1 === "manipulation and witchcraft" && answer2 === "100") {
         $(".reveal").text("The Evil Stepmother from Snow White");
-        $(".Snow White").show();
+        $(".SnowWhite").show();
     }
     else {
         $(".reveal").text("The Witch from Hansel and Gretal");
